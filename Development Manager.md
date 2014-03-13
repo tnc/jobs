@@ -1,6 +1,6 @@
-# 开发经理
+## 开发经理
 
-## What you will be doing:
+### What you will be doing:
 
 * Technical project planning: plan budget, timing and deliverables for your team;
 * Set team goals reflecting the product and company roadmap;
@@ -10,7 +10,7 @@
 * Be responsible for testing, release management and deployment;
 * Be on top of software development process and able to define and remove impediments.
 
-## Requirements:
+### Requirements:
 
 * 3+ years of experience in (web) software development;
 * 3+ years of project and/or team management experience;
