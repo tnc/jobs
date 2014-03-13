@@ -20,5 +20,6 @@
 * Excellent communication skills in English (verbal and written), Chinese Mandarin is a plus;
 * Already located in Shanghai or have solid plans to relocate here.
 
-请将您的中英文简历以及应聘职位名称发送至：jobs@thenetcircle.com
-由于收到的简历量过多，如一个月没有收到我们的回复，请视为应聘不成功。谢谢！
+### 应聘方法：
+* 请将您的中英文简历以及应聘的职位名称发送至：jobs@thenetcircle.com
+* 由于收到的简历量过多，如一个月没有收到我们的回复，请视为应聘不成功。谢谢！
