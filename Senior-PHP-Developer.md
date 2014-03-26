@@ -1,4 +1,8 @@
+![The NetCircle](http://www.thenetcircle.com/wp-content/themes/tnc-2011-3/images/logo-tnc.png)
+
 ## 资深PHP开发工程师
+
+![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad08.jpg)
 
 ### 工作职责:
 
@@ -32,3 +36,9 @@
 ### 应聘方法：
 * 请将您的中英文简历以及应聘的职位名称发送至：jobs@thenetcircle.com
 * 由于收到的简历量过多，如一个月没有收到我们的回复，请视为应聘不成功。谢谢！
+
+### 公司介绍：
+* 网址：http://www.thenetcircle.com
+* 微博：http://www.weibo.com/thenetcircle
+
+![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad07.jpg)
