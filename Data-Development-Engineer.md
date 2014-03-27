@@ -2,7 +2,7 @@
 
 ## 数据开发/挖掘工程师
 
-![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad08.jpg)
+![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad09.jpg)
 
 ### 工作职责:
 
@@ -10,6 +10,8 @@
 * 管理，采集，整理数据，报表系统的研发；
 * 帮助业务、产品部门分析问题，支持产品开发决策；
 * 开发数据产品。
+
+<br>
 
 ### 任职要求：
 
@@ -22,12 +24,17 @@
 * 英语水平良好；
 * 有数据可视化经验者优先。
 
+<br>
+
 ### 应聘方法：
 * 请将您的中英文简历以及应聘的职位名称发送至：jobs@thenetcircle.com
+* 或登陆公司网站的招聘页面直接投递中英文简历：[点此进入](http://www.thenetcircle.com/data-development-engineer/)
 * 由于收到的简历量过多，如一个月没有收到我们的回复，请视为应聘不成功。谢谢！
 
+<br>
+
 ### 公司介绍：
-* 网址：http://www.thenetcircle.com
-* 微博：http://www.weibo.com/thenetcircle
+* 网址：[www.thenetcircle.com](http://www.thenetcircle.com)
+* 微博：[@人英网络](http://www.weibo.com/thenetcircle)
 
 ![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad07.jpg)

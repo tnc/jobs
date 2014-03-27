@@ -2,7 +2,7 @@
 
 ## 资深PHP开发工程师
 
-![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad08.jpg)
+![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad09.jpg)
 
 ### 工作职责:
 
@@ -10,6 +10,8 @@
 * 能胜任前端以及后端的工作；
 * 维护改进历史项目，重构，编写单元测试；
 * 作为团队的技术领导者，能够为其他开发员树立榜样。
+
+<br>
 
 ### 任职要求:
 
@@ -27,18 +29,25 @@
 * 愿意学习新的技术，提升自我能力和知识面；
 * 目前在上海，或是有到上海工作的意向。
 
+<br>
+
 ### 有以下经验者优先：
 
 * TDD编码实践经验；
 * Agile/scrum开发经验；
 * 团队管理经验。
 
+<br>
+
 ### 应聘方法：
 * 请将您的中英文简历以及应聘的职位名称发送至：jobs@thenetcircle.com
+* 或登陆公司网站的招聘页面直接投递中英文简历：[点此进入](http://www.thenetcircle.com/zh-hans/shanghai-php-developer/)
 * 由于收到的简历量过多，如一个月没有收到我们的回复，请视为应聘不成功。谢谢！
 
+<br>
+
 ### 公司介绍：
-* 网址：http://www.thenetcircle.com
-* 微博：http://www.weibo.com/thenetcircle
+* 网址：[www.thenetcircle.com](http://www.thenetcircle.com)
+* 微博：[@人英网络](http://www.weibo.com/thenetcircle)
 
 ![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad07.jpg)
