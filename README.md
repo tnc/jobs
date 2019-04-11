@@ -7,7 +7,6 @@ We love technology. At The NetCircle, we specialize in making social networking 
 The Net is the Web. The Circle is the Community.
 We are sociable. Ideas are worthless without ambitious people to bring them to life. Our team is made up of like-minded, passionate and friendly people from all over the world. 
 
-------
 
 ## Android Developer 2019
 
