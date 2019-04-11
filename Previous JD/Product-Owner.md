@@ -11,9 +11,9 @@
 * Organize product backlog, set priorities and organize development according to roadmap;
 * Write user stories in a clear manner, reflecting the features in an understandable way;
 * Organize bug reports: establish priority, follow, review and ensure all issues get dealt with;
-* Conduct feedback loop with PM / stakeholders to propose improvements and voice the team¡¯s suggestions for the product;
-* Review and validate team¡¯s work every sprint according to the agreed definition of done: conduct final testing on every feature, discuss adjustments with the team, and have a final word on whether features can be shipped or not;
-* Updates PM & company about project¡¯s progress.
+* Conduct feedback loop with PM / stakeholders to propose improvements and voice the teamâ€™s suggestions for the product;
+* Review and validate teamâ€™s work every sprint according to the agreed definition of done: conduct final testing on every feature, discuss adjustments with the team, and have a final word on whether features can be shipped or not;
+* Updates PM & company about projectâ€™s progress.
 
 <br>
 
@@ -39,15 +39,15 @@
 
 <br>
 
-### Ó¦Æ¸·½·¨£º
-* Çë½«ÄúµÄÖĞÓ¢ÎÄ¼òÀúÒÔ¼°Ó¦Æ¸µÄÖ°Î»Ãû³Æ·¢ËÍÖÁ£ºjobs@thenetcircle.com
-* »òµÇÂ½¹«Ë¾ÍøÕ¾µÄÕĞÆ¸Ò³ÃæÖ±½ÓÍ¶µİÖĞÓ¢ÎÄ¼òÀú£º[µã´Ë½øÈë](http://www.thenetcircle.com/zh-hans/product-owner/)
-* ÓÉÓÚÊÕµ½µÄ¼òÀúÁ¿¹ı¶à£¬ÈçÒ»¸öÔÂÃ»ÓĞÊÕµ½ÎÒÃÇµÄ»Ø¸´£¬ÇëÊÓÎªÓ¦Æ¸²»³É¹¦¡£Ğ»Ğ»£¡
+### åº”è˜æ–¹æ³•ï¼š
+* è¯·å°†æ‚¨çš„ä¸­è‹±æ–‡ç®€å†ä»¥åŠåº”è˜çš„èŒä½åç§°å‘é€è‡³ï¼šjobs@thenetcircle.com
+* æˆ–ç™»é™†å…¬å¸ç½‘ç«™çš„æ‹›è˜é¡µé¢ç›´æ¥æŠ•é€’ä¸­è‹±æ–‡ç®€å†ï¼š[ç‚¹æ­¤è¿›å…¥](http://www.thenetcircle.com/zh-hans/product-owner/)
+* ç”±äºæ”¶åˆ°çš„ç®€å†é‡è¿‡å¤šï¼Œå¦‚ä¸€ä¸ªæœˆæ²¡æœ‰æ”¶åˆ°æˆ‘ä»¬çš„å›å¤ï¼Œè¯·è§†ä¸ºåº”è˜ä¸æˆåŠŸã€‚è°¢è°¢ï¼
 
 <br>
 
-### ¹«Ë¾½éÉÜ£º
-* ÍøÖ·£º[www.thenetcircle.com](http://www.thenetcircle.com)
-* Î¢²©£º[@ÈËÓ¢ÍøÂç](http://www.weibo.com/thenetcircle)
+### å…¬å¸ä»‹ç»ï¼š
+* ç½‘å€ï¼š[www.thenetcircle.com](http://www.thenetcircle.com)
+* å¾®åšï¼š[@äººè‹±ç½‘ç»œ](http://www.weibo.com/thenetcircle)
 
 ![](http://www.thenetcircle.com/wp-content/gallery/social-media/ad07.jpg)
