@@ -1,4 +1,4 @@
-### About TNC
+#### About TNC
 
 We are The NetCircle. Masters of Social Networking Sites.
 
@@ -7,7 +7,7 @@ We love technology. At The NetCircle, we specialize in making social networking 
 The Net is the Web. The Circle is the Community.
 We are sociable. Ideas are worthless without ambitious people to bring them to life. Our team is made up of like-minded, passionate and friendly people from all over the world. 
 
-### What are we offering? 
+##### What are we offering? 
 
 • 16 paid holidays with annual increments of 2 days (maximum 24 paid holidays);
 • Extra paid day off on Christmas;
@@ -91,9 +91,13 @@ As a great increment to the mobile frontend, you will take charge of the feature
 ##### What you will do: 
 
 • Responsible for architecture, design, and development of Android client and other related products; translate designs and wireframes into high-quality code; 
+
 • Pay special attention to the application’s compatibility with multiple versions of Android and device types; 
+
 • Participate in the formulation of technical specifications and writing documentation; 
+
 • Identify and correct bottlenecks and fix bugs as well as improving application performance; 
+
 • Continuously discover, evaluate, and implement new technologies to maximize development efficiency. 
 
 
@@ -101,18 +105,31 @@ As a great increment to the mobile frontend, you will take charge of the feature
 ##### At a minimum, we’d like you to have: 
 
 • 5 years+ working experience related to Android; 
+
 • Proficiency in Java and Android SDK (Activity, Fragment, Service) ; 
+
 • Proficiency in Flexible UI & solutions to gesture conflicts; 
+
 • Proficiency in Android animation framework(Property Animation); 
+
 • Proficiency in SQLite/GreenDao, having an abundant knowledge of data cache mechanisms; 
+
 • Experience with Android Architecture Components (Lifecycle, ViewModel, LiveData); 
+
 • Experience with Fragment-based Android application architectures; 
+
 • Professional experience of Android multithreaded programming, memory management, and performance tuning; 
+
 • Experience with Mockito; 
+
 • Experience with Agile software development, TDD; 
+
 • Experience with Git; 
+
 • Excellent communication skills in English (verbal and written); 
+
 • Ability to work independently and work as a team player; 
+
 • Good problem-solving skills with a strong sense of responsibility and capability to acquire quickly. 
 
 
@@ -120,7 +137,10 @@ As a great increment to the mobile frontend, you will take charge of the feature
 ##### Ideally, you’ll also have: 
 
 • Experience in cross-platform, like Flutter or React Native; 
+
 • Your own Techblog & Github page. 
+
+
 
 
 
