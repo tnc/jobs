@@ -10,18 +10,31 @@ We are sociable. Ideas are worthless without ambitious people to bring them to l
 ##### What are we offering? 
 
 • 16 paid holidays with annual increments of 2 days (maximum 24 paid holidays);
+
 • Extra paid day off on Christmas;
+
 • Flexible work shifts;
+
 • Catered food and drinks;
+
 • Nice place to work;
+
 • Entertainment facilities such as pool table and darts;
+
 • Annual team and company trip;
+
 • OOODays (out of office days);
+
 • Massage sessions;
+
 • Language classes;
+
 • A mini library of programming books;
+
 • Annual health check;
+
 • Gym reimbursement;
+
 • Social welfare and additional medical insurance.
 
 ------
@@ -39,14 +52,23 @@ Service Team engineers play a direct role in the direction of our company and ar
 ##### What you will do: 
 
 • Build scalable systems that process, store, and serve terabytes of data;
+
 • Optimize systems from hardware to software level;
+
 • Maintain the operational status of our systems;
+
 • Build tools that will automate common infrastructure routines;
+
 • Gather requirements and build new solutions to solve the pain points of Data Scientists and Developers;
+
 • Be responsible for architecture, design and development of services and related projects;
+
 • Communicate complex findings visually to non-technical shareholders;
+
 • Use exploratory analysis to help find new business cases;
+
 • Choose and implement new technologies that will enable us to sustain our growth for years to come;
+
 • Be responsible for document designs and implementations.
 
 
@@ -54,14 +76,23 @@ Service Team engineers play a direct role in the direction of our company and ar
 ##### **At a Minimum, we’d like you to have:**
 
 • Bachelor or Master’s degree in Computer Science or equivalent;
+
 • 5+ years experience ideally including technical lead roles;
+
 • Production experience with large scale distributed systems, including performance tuning;
+
 • Experience managing Linux based systems;
+
 • Proficiency in modern compiled and scripting languages such as Java or Python;
+
 • Experience with modern data technology including Hadoop, NoSQL data stores, key-value stores, MPP warehouse solutions, etc;
+
 • Independence, self-direction and an amazing ability to get stuff done;
+
 • Strong understanding of algorithms, web services, and data management;
+
 • Proficiency in designing efficient and robust ETL workflows;
+
 • Proficiency in data warehouse modeling techniques, dealing with imperfections in data, visualizing and communicating data.
 
 
@@ -69,7 +100,9 @@ Service Team engineers play a direct role in the direction of our company and ar
 ##### **Ideally, you’ll also have:**
 
 • Strong written and verbal English communication skills;
+
 • Ability to work in stressful situations when insights in (new) data sets is required quickly;
+
 • Familiar with machine learning such as natural language processing, or predictive modeling.
 
 
