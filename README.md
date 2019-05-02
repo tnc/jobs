@@ -1,4 +1,4 @@
-#### About TNC
+### About TNC
 
 We are The NetCircle. Masters of Social Networking Sites.
 
@@ -7,7 +7,7 @@ We love technology. At The NetCircle, we specialize in making social networking 
 The Net is the Web. The Circle is the Community.
 We are sociable. Ideas are worthless without ambitious people to bring them to life. Our team is made up of like-minded, passionate and friendly people from all over the world. 
 
-##### What are we offering? 
+### What are we offering? 
 
 • 16 paid holidays with annual increments of 2 days (maximum 24 paid holidays);
 • Extra paid day off on Christmas;
